@@ -75,5 +75,13 @@ python decode.py
 ```
 
 Enter paths to .enc file and private.pem
+
 Output: .zip with extracted data
+
+
+**Example :** 
+
+
+https://github.com/user-attachments/assets/c30c2db5-aebf-4f7b-9e0c-ba3f1c1c55ad
+
 
