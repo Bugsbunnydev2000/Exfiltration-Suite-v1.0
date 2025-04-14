@@ -1,0 +1,3 @@
+pyperclip
+pycryptodome
+pypiwin32
